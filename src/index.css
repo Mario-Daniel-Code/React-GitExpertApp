@@ -31,3 +31,6 @@ input {
   flex-direction: row;
   flex-wrap: wrap;
 }
+.animate__slideInDow {
+  animation-duration: 5s; 
+}
